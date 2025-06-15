@@ -18,9 +18,9 @@ I'm a Front-End Developer based in Finland 🇫🇮 with 4+ years of experience 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
 
 
 **CMS & Tools**  
