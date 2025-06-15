@@ -6,14 +6,10 @@ I'm a Front-End Developer based in Finland 🇫🇮 with 4+ years of experience 
 ## 🛠️ Tech Stack
 
 **Languages & Markup**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 
 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
