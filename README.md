@@ -27,7 +27,7 @@ I'm a Front-End Developer based in Finland 🇫🇮 with 4+ years of experience 
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0B0B0B?logo=github-actions&logoColor=white)  
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=fff)
 
-**Cloud & AI Tools
+**Cloud & AI Tools**
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Google Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
