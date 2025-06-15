@@ -29,6 +29,7 @@ I'm a Front-End Developer based in Finland 🇫🇮 with 4+ years of experience 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)  
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0B0B0B?logo=github-actions&logoColor=white)  
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=fff)
+![Netlify](https://img.shields.io/badge/-netlify-FF4785?logo=netlify&logoColor=fff)
 
 **Security & Testing**  
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-000000?logo=hackthebox&logoColor=white)
