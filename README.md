@@ -38,9 +38,6 @@ I'm a Front-End Developer based in Finland 🇫🇮 with 4+ years of experience 
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-000000?logo=hackthebox&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhannad-alobaidi&layout=compact&langs_count=10&theme=default)
-
-
 ## 🌐 Connect with Me
 
 - 🌍 [muhannad-alobaidi.com](https://muhannad-alobaidi.com)  
